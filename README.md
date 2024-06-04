@@ -34,7 +34,7 @@ from design and painting to phonetics[, but whose nucleus
 remains the discourse of written texts.]{.elision}” …
 ```
 
-This allows you to keep the original context and make ajustments to the quoted part as you edit your manuscript.
+This allows you to keep the original context and make adjustments to the quoted part as you edit your manuscript.
 
 See `test.md` for more examples (provided that you have LaTeX or groff installed you can render it to PDF with `make test-latex.pdf` or `make test-ms.pdf`; you can convert it to HTML with `make test.html`).
 
